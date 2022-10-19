@@ -5,7 +5,7 @@ I was given the starter code and an image what the website should look like. I t
 
 ## Installation
 
-N/A
+please add all files and folders since all have been updated. 
 
 ## Usage
 
@@ -14,7 +14,7 @@ N/A
 
 ## Credits
 
-N/A
+Xandromus - Starter code - https://github.com/coding-boot-camp/urban-octo-telegram
 
 ## License
 
