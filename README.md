@@ -8,7 +8,7 @@ I was given the starter code and an image what the website should look like. I t
 please add all files and folders since all have been updated. 
 
 ## Usage
-
+https://kfarshchian.github.io/Marketing-Management-Site-plan/
 ![alttext](assets/images/website-top.png)
 ![alttext](assets/images/website-bottom.png)
 
